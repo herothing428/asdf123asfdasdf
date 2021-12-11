@@ -1,12 +1,12 @@
 {
-	"R3LEASE": {
-		"Moves": ["Shadow Ball", "Aura Sphere", "Flash Cannon", "Close Combat"],
-		"PokemonName": "Riolu",
+	"Release": {
+		"Moves": ["Discharge", "Nasty Plot", "Thunder Punch", "Double Team"],
+		"PokemonName": "Pikachu",
 		"Nature": "Timid",
 		"Nickname": "Omega",
-		"Pokeball": "Ultra ball",
+		"Pokeball": "Pokeball",
 		"Level": "Badge",
-		"Gender": "Male",
+		"Gender": "Random",
 		"Shiny": true,
 		"IVs": {
 			"SpA": 31,
@@ -16,8 +16,7 @@
 			"Def": 31,
 			"Atk": 31
 		},
-		"OT": "Primal Studios",
-		"Aura": "Yellow",
+		"OT": "Team Ammonium",
 		"EVs": {
 			"SpA": 252,
 			"HP": 4,
@@ -26,6 +25,6 @@
 			"Def": 0,
 			"Atk": 0
 		},
-		"Allowed": false
+		"Allowed": true
 	}
 }
