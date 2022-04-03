@@ -27,7 +27,7 @@
 		},
 		"Allowed": true
 	},
-	"10k Visits": {
+	"10kVisits": {
 		"Moves": ["Double Team", "Night Slash", "Water Shuriken", "Shadow Sneak"],
 		"PokemonName": "Greninja",
 		"Nature": "Brave",
