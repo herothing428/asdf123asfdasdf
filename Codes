@@ -26,5 +26,33 @@
 			"Atk": 0
 		},
 		"Allowed": true
+	},
+	"10k Visits": {
+		"Moves": ["Double Team", "Night Slash", "Water Shuriken", "Shadow Sneak"],
+		"PokemonName": "Greninja",
+		"Nature": "Brave",
+		"Nickname": "10k Greninja",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": true,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "Team Ammonium",
+		"EVs": {
+			"SpA": 252,
+			"HP": 4,
+			"Speed": 252,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 0
+		},
+		"Allowed": true
 	}
 }
